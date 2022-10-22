@@ -1,14 +1,18 @@
 {
-  "posts": [
+  "furniture": [
     {
       "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+			"type":"Study table",
+      "year": 2019,
+      "Description": "Wooden table with dual laptop setup",
+      "Price": 50000
     },
     {
       "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+			"type":"chair",
+      "year": 2017,
+      "Description": "Gaming Chair",
+      "Price": 8000
     }
   ]
 }
